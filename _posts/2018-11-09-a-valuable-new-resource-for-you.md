@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A Valuable New Resource For You
-date: 2018-11-09 16:09:31
+date: 2018-11-09 16:09:00
 tags:
   - Real Estate
-excerpt:
+excerpt: Welcome to our new real estate blog!
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Scott+Voak/2018/Voak+Homes-+Welcome+to+My+YouTube+Channel.mp4
 pullquote:
