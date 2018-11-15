@@ -19,7 +19,7 @@ youtube_code: GNTRZ0UwW_U
 
 {% include youtube.html %}
 
-Our latest market update shows that it isn’t exactly the best time for you buyers out there.
+<p style="text-align: center;"><em>Our latest market update shows that it isn’t exactly the best time for you buyers out there.</em></p>
 
 Today we’ll be taking a look at the market changes we’ve seen this October.
 
