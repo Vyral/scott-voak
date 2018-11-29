@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Estate Market Update for October
+title: Real Estate Market Update for November
 date: 2018-11-15 16:41:11
 tags:
   - Market Update
@@ -21,9 +21,9 @@ youtube_code: GNTRZ0UwW_U
 
 <p style="text-align: center;"><em>Our latest market update shows that it isn’t exactly the best time for you buyers out there.</em></p>
 
-Today we’ll be taking a look at the market changes we’ve seen this October.
+Today we’ll be taking a look at the market changes we’ve seen this November.
 
-October sales were interesting from a statistical standpoint. Inventory is still higher than last year with a 30% to 35% increase. However, there was a slight reduction from September.
+Recent sales were interesting from a statistical standpoint. Inventory is still higher than last year with a 30% to 35% increase. However, there was a slight reduction from previously.
 
 The number of sales has increased; **we’re seeing some acceleration at a time of year when things are usually slowing down.** It seems people who were out of the market are taking advantage of the slowdown and jumping back in. We’ve seen home pricing hold and stay fairly steady. You’ll soon be hearing from the Association of Realtors that median prices have fallen substantially, with some areas seeing a 4% to 5% decrease in a single month. However, the mean pricing has held up well. If the median is dropping and the mean is staying the same, it shows we’re selling more higher-priced homes and fewer entry-level homes.
 
