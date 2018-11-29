@@ -21,7 +21,7 @@ youtube_code: GNTRZ0UwW_U
 
 <p style="text-align: center;"><em>Our latest market update shows that it isn’t exactly the best time for you buyers out there.</em></p>
 
-Today we’ll be taking a look at the market changes we’ve seen this November.
+Today we’ll be taking a look at the market changes we’ve seen.
 
 Recent sales were interesting from a statistical standpoint. Inventory is still higher than last year with a 30% to 35% increase. However, there was a slight reduction from previously.
 
