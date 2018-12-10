@@ -19,7 +19,7 @@ youtube_code: g9XKZVl86S4
 
 {% include youtube.html %}
 
-<p style="text-align: venter;"><em>Our real estate market is starting to soften a bit. Some of it is typical of the season, but not all of it is.</em></p>
+<p style="text-align: center;"><em>Our real estate market is starting to soften a bit. Some of it is typical of the season, but not all of it is.</em></p>
 
 I’ve got a quick update for you today on the San Diego real estate market. November continued a downward trend in activity and sales prices for San Diego County. You can easily break the market up into two segments: attached and detached homes.&nbsp;
 
