@@ -21,7 +21,7 @@ youtube_code: vznHhXUmeIU
 
 {% include youtube.html %}
 
-Zillow can be a valuable tool, but it definitely isn’t a perfect resource. Today we’ll be covering the top three problems people encounter when using this popular real estate website.
+<p style="text-align: center;"><em>Zillow can be a valuable tool, but it definitely isn’t a perfect resource. Today we’ll be covering the top three problems people encounter when using this popular real estate website.</em></p>
 
 Most of the people I’ve met have a love/hate relationship with Zillow. While this popular real estate website can be a valuable tool, many of its features are deeply flawed.
 
