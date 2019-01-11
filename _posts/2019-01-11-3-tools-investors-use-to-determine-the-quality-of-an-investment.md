@@ -20,7 +20,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Investors rely on three tools, at different levels, to discern whether or not something is a good investment. Today I’ll detail what those tools are and how they’re used.
+<p style="text-align: center;"><em>Investors rely on three tools, at different levels, to discern whether or not something is a good investment. Today I’ll detail what those tools are and how they’re used.</em></p>
 
 **1. Gross rent multiplier.** Whether for an individual home, duplex, triplex, or apartment, the gross rent multiplier is a basic mathematical equation that gauges value. To calculate it, you take the value of the home and divide it by the annual rent. The higher your quotient, the better. On the subject of rent-to-property-value ratio, this segues well into “the 1% rule.” This rule holds that the monthly rent coming in should be worth 1% of your purchase price.&nbsp;
 
