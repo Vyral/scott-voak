@@ -28,6 +28,6 @@ youtube_code: 5ZAcn80LxDs
 
 **3. Cash-on-cash return.** Individual investors are known to go off of this last measure. How this works is you subtract your mortgage payments from your net rent (refer back to cap rate). Once your mortgage has been subtracted, you’re left with the cash flow you’re bringing in. And, rather than dividing by building value, you divide by equity. The idea here is to measure how much cash you’re generating against how much you’re putting in.&nbsp;
 
-<br>If you have further questions about any of the investment valuation tools I covered or for help with anything else investment-related, please reach out and give me a call today.
+<br>If you have further questions about any of the investment valuation tools I covered or for help with anything else investment related, please reach out and give me a call today.
 
 {% include pullquote.html %}
