@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Real Estate Mondays
+permalink: /real-estate-mondays/
 ---
