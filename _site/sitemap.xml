@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/a-valuable-new-resource-for-you.html</loc>
+<lastmod>2018-11-09T10:09:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/real-estate-market-update-for-october.html</loc>
+<lastmod>2018-11-15T10:41:11-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/whats-causing-the-slowdown-in-our-real-estate-market.html</loc>
+<lastmod>2018-12-10T13:45:54-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-top-3-problems-with-zillow.html</loc>
+<lastmod>2018-12-20T13:45:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/3-tools-investors-use-to-determine-the-quality-of-an-investment.html</loc>
+<lastmod>2019-01-11T09:20:03-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -25,6 +37,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/real-estate-mondays/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>
