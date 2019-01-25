@@ -19,7 +19,7 @@ youtube_code: YLPL3-Qaiog
 
 {% include youtube.html %}
 
-If you’re a buyer, there are two particular mistakes you need to avoid that I’ve seen other buyers make plenty of times over the course of my career.
+<p style="text-align: center;"><em>If you’re a buyer, there are two particular mistakes you need to avoid that I’ve seen other buyers make plenty of times over the course of my career.</em></p>
 
 What are the two biggest mistakes I’ve seen buyers make over the course of my career that you need to avoid?&nbsp;
 
