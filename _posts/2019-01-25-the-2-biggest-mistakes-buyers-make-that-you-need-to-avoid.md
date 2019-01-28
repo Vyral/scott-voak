@@ -9,7 +9,7 @@ excerpt: >-
   I’ve seen other buyers make plenty of times over the course of my career.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Scott+Voak/2019/Voak+Homes-+2+Mistakes+Buyers+Make.mp4
-pullquote: When you buy a house is more important than the price you pay for it.
+pullquote: When you purchase a home, timing matters more than price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,12 +27,12 @@ The first is **working with the listing agent.** A lot of buyers assume they’l
 
 As a buyer, you’re better off hiring an agent who works for you specifically and knows all of your wants and needs so they can negotiate the best deal possible. In the end, having a buyer’s agent negotiate a $20,000 discount is better than a listing agent offering you a $5,000 rebate.&nbsp;
 
-The second mistake is **fighting too hard for the best deal.** When you buy a house is more important than the price you pay for it. Why? Let’s say you bought a house in San Diego County in August 2006 at 2% under what was the average sale price at the time: $599,378. That means you would’ve paid about $590,000 for it. But if you would’ve sold that house five years later in August 2011 when the average sales price was $402,878, getting that extra $10,000 wouldn’t have made any difference.&nbsp;
+The second mistake is **fighting too hard for the best deal.** When you purchase a home, timing matters more than price. Why? Let’s say you bought a house in San Diego County in August 2006 for 2% less than what was the average sale price at the time: $599,378. That means you would’ve paid about $590,000 for it. But if you would’ve sold that house five years later in August 2011, when the average sales price was $402,878, getting that extra $10,000 wouldn’t have made any difference.&nbsp;
 
 {% include pullquote.html %}
 
-Conversely, let’s say you bought a home in August 2011, and you and your agent didn’t do a great job of negotiating. In turn, you paid $10,000 over the average sale price of $402,878. If you would’ve sold it five years later in August 2016 when the average sales price was $601,534, that extra $10,000 you paid wouldn’t have mattered either.&nbsp;
+Conversely, let’s say you bought a home in August 2011, and you and your agent didn’t do a great job of negotiating. As a result, you paid $10,000 over the average sale price of $402,878. If you would’ve sold it five years later in August 2016, when the average sales price was $601,534, that extra $10,000 you paid wouldn’t have mattered either.&nbsp;
 
-I always advise my buyers to treat their house as their home—not as an investment. If you save $10,000 buying a certain house but your kids have to cross a busy street to get to school for the next seven years, is that worth it? **If you’re buying a home for your family, there are more important things to think about than saving $10,000.** &nbsp;
+I always advise my buyers to treat their house as their home—not as an investment. If you save $10,000 buying a house where your kids have to cross a busy street to get to school for the next seven years, is that worth it? **If you’re buying a home for your family, there are more important things to think about than saving $10,000.** &nbsp;
 
-If you have any more real estate questions or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
+If you have any more real estate questions, or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
