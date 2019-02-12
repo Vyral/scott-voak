@@ -22,7 +22,7 @@ youtube_code: iIwAceNvfQM
 
 {% include youtube.html %}
 
-Those living in Southern California have likely noticed an increase in the number of Notice of Defaults being filed. Today, we’ll share three reasons for this trend.
+<p style="text-align: center;"><em>Those living in Southern California have likely noticed an increase in the number of Notice of Defaults being filed. Today, we’ll share three reasons for this trend.</em></p>
 
 If you live in Southern California, or own an investment property in this area, then you can expect to soon hear about an increase in the number of “Notice of Defaults” that are being filed. Coupled with the fact that our market is slowing down and that prices are dropping, you may see this development as an indication that we’re in a bubble. However, this isn’t the case.
 
