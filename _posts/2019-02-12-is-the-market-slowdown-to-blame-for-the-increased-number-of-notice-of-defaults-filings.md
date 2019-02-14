@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  Is the Market Slowdown to Blame for the Increased Number of Notice of Defaults
+  Is the Market Slowdown to Blame for the Increased Number of Notice of Default
   Filings?
 date: 2019-02-12 17:03:38
 tags:
@@ -34,7 +34,7 @@ Seven or eight years ago, many people were modifying their first mortgages, but 
 
 These same homeowners have since enjoyed strong appreciation, meaning their homes are worth more than they were when they purchased them. **This is great, except for the fact that their second mortgage is still in play**—and the lenders who loaned the funds now want their money. This is the first reason for the recent influx of Notice of Defaults.&nbsp;
 
-**The second reason is that the terms of homeowners original loan mod have expired,** and these people can no longer afford the new, increased rates.
+**The second reason is that the terms of their original loan modifications have expired,** and these people can no longer afford the new, increased rates.
 
 **The third reason has to do with the Save Your Home California program**—which paid the mortgages of 85,000 homeowners who had lost their job. This program is now over, meaning those who previously got by because of it have a renewed responsibility to pay their mortgages on their own.
 
