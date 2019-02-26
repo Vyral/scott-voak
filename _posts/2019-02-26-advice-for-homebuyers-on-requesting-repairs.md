@@ -19,7 +19,7 @@ youtube_code: v7dcBZnNpNU
 
 {% include youtube.html %}
 
-What’s appropriate and what’s not when it comes to making repair requests as a homebuyer? Keep reading to find out.
+<p style="text-align: center;"><em>What’s appropriate and what’s not when it comes to making repair requests as a homebuyer? Keep reading to find out.</em></p>
 
 Although we have a lot of new activity on the market, we’re seeing a high percentage of houses fall out of escrow. The main reason behind this is that a lot of misunderstandings are occuring when it comes time for buyers to request repairs.
 
