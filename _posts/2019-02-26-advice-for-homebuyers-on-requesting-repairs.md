@@ -25,7 +25,7 @@ Although we have a lot of new activity on the market, we’re seeing a high perc
 
 Over the last few years, home sellers have all but ignored repair requests from buyers. When they’re getting multiple offers, they have the luxury of moving on to the ones that don’t require repairs. In today’s market, however, sellers are having to concede a bit more and they aren’t used to it. At the same time, buyers are getting bolder. So, **what repair requests are appropriate in today’s market?**
 
-**The first item that’s always fair to ask for is any problem that causes health and safety risks.** For example,if a garage door has broken motion sensor and you have children or pets, that’s a dangerous situation.&nbsp;
+**The first item that’s always fair to ask for is any problem that causes health and safety risks.** For example, if a garage door has a broken motion sensor and you have children or pets, that’s a dangerous situation.&nbsp;
 
 **The second type of repair is something that you can’t identify when you go through the house and make your offer.** An example would be a roof leak in the attic that isn’t visible during a walkthrough but is found during an inspection.
 
