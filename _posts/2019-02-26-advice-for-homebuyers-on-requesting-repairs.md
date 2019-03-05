@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advice for Homebuyers on Requesting Repairs
+title: Navigating the Request for Repairs
 date: 2019-02-26 15:38:47
 tags:
   - Home Buyer Tips
