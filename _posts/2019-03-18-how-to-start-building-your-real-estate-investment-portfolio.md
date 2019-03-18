@@ -43,3 +43,5 @@ You should also spend that time paying the mortgage down. You want to build up a
 Once you have multiple properties in your portfolio, you can start thinking about trading up into a larger property and taking advantage of tax-deferred exchanges, but that’s a topic for another video.&nbsp;
 
 If you have any questions about real estate investing or there’s anything else I can help you with, don’t hesitate to reach out to me. I’d be happy to help you.
+
+P.S., today’s topic was suggested to me by San Diego resident Alberto Lara, who will receive a $25 gift card for either Starbucks or Amazon for his contribution. If you’d like a chance at winning your own $25 gift card, don’t hesitate to send me your video topic ideas!
