@@ -22,7 +22,7 @@ youtube_code: Mb-hlJuvJAQ
 
 {% include youtube.html %}
 
-If you’re thinking of investing in real estate, there are certain steps you need to take to make sure you build your portfolio the right way.
+<p style="text-align: center;"><em>If you’re thinking of investing in real estate, there are certain steps you need to take to make sure you build your portfolio the right way.</em></p>
 
 If you’re looking to start your real estate investment portfolio, there are several steps you need to take before actually purchasing a home.&nbsp;
 
