@@ -36,7 +36,7 @@ Speaking of hands-on work, you need to decide whether you’re going to manage t
 
 {% include pullquote.html %}
 
-**Once you’ve figured these things out and you’re ready to buy, I recommend starting small.** For example, you could buy a property and put—say—25% down so you can get used to the ownership aspect of it and see if you’re really cut out for this sort of thing.&nbsp;
+**Once you’ve figured these things out and you’re ready to buy, I recommend starting small.** For example, you could buy a property and put, say, 25% down so you can get used to the ownership aspect of it and see if you’re really cut out for this sort of thing.&nbsp;
 
 You should also spend that time paying the mortgage down. You want to build up at least 35% equity in that property before you buy another one, and if the market goes south, you want to be able to hold on to it until conditions improve again. Where people really get hurt in real estate is when they have to sell at the bottom of the market but there are no buyers.&nbsp;
 
@@ -44,4 +44,4 @@ Once you have multiple properties in your portfolio, you can start thinking abou
 
 If you have any questions about real estate investing or there’s anything else I can help you with, don’t hesitate to reach out to me. I’d be happy to help you.
 
-P.S., today’s topic was suggested to me by San Diego resident Alberto Lara, who will receive a $25 gift card for either Starbucks or Amazon for his contribution. If you’d like a chance at winning your own $25 gift card, don’t hesitate to send me your video topic ideas!
+P.S., today’s topic was suggested to me by San Diego resident Alberto Lara, who will receive a $25 gift card to either Starbucks or Amazon for his contribution. If you’d like a chance at winning your own $25 gift card, don’t hesitate to send me your video topic ideas!
