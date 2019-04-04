@@ -19,7 +19,7 @@ youtube_code: ivO0ccyKz8s
 
 {% include youtube.html %}
 
-What three things do lenders look for when working with first-time buyers? We recently sought the answer to this question from a local expert.
+<p style="text-align: center;"><em>What three things do lenders look for when working with first-time buyers? We recently sought the answer to this question from a local expert.</em></p>
 
 Recently, I had the opportunity to speak with mortgage expert Ken Reed from Finance of America regarding the three things lenders look at when evaluating first-time homebuyers, and I’d like to share this quick list with you now:&nbsp;
 
