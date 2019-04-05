@@ -35,7 +35,7 @@ With these three points in mind, let’s also touch on a few things lenders don�
 
 First, there’s the matter of unsourced deposits in their bank accounts. Lenders won’t automatically assume you’re laundering money, but they are required to investigate.&nbsp;
 
-The second mistake is less obvious. Completely paying off your credit cards before you buy could actually hurt your chances. Since credit history is important to getting approved, and paying off lines of credit can erase that history, it’s better to keep a minimal balance rather than a zero balance.&nbsp;
+The second mistake is less obvious. Completely paying off your credit cards before you buy could actually hurt your chances. Since credit history is important for getting approved, and paying off lines of credit can erase that history, it’s better to keep a minimal balance rather than a zero balance.&nbsp;
 
 Overall, the best way to resolve any concerns you might have about your financial position is to speak with a lender. Lenders want you to succeed. If you meet with them in advance, they should be more than happy to help determine what you’ll need to do to get qualified.&nbsp;
 
