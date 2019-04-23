@@ -19,7 +19,7 @@ youtube_code: 7pSGnemBO_o
 
 {% include youtube.html %}
 
-A pre-inspection means you’ll know what’s wrong before buyers do. From there, you can save a lot of time and money by fixing things yourself.
+<p style="text-align: center;"><em>A pre-inspection means you’ll know what’s wrong before buyers do. From there, you can save a lot of time and money by fixing things yourself.</em></p>
 
 Before you decide to sell your home, there are a few reasons why you should consider getting a pre-inspection.&nbsp;
 
