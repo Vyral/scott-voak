@@ -28,6 +28,6 @@ I know that there’s a lot that she can do to help all of you out there. **Here
 
 1:00- How can an interior designer help the average homeowner?<br>3:25- Elizabeth shares some of her experience working with clients who want to remodel<br>5:15- What are some of the biggest mistakes that Elizabeth is seeing homeowners and builders making?<br>8:15- What does it cost to hire someone like Elizabeth to work with you and your home?<br>9:50- How to get a hold of Elizabeth if you’re interested in working with her
 
-If you’d like to reach out to Elizabeth about a project, send her an email to [elizabeth@leahyinteriordesign.com](mailto:elizabeth@leahyinteriordesign.com), visit her [website](https://leahyinteriordesign.com/){: target="_blank"}, or give her a call at (858) 229-2861.
+If you’d like to reach out to Elizabeth about a project, send her an email to [elizabeth@leahyinteriordesign.com](mailto:elizabeth@leahyinteriordesign.com), visit her [website](https://leahyinteriordesign.com/){: target="_blank"}, or give her a call at (858) 345-9022.
 
 If you have any other real estate-related questions for me in the meantime, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
