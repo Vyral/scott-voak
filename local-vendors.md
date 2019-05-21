@@ -4,4 +4,4 @@ title: Local Vendors
 permalink: /local-vendors/
 ---
 
-Lorem ipsum dolor sit amet,
+<br><br>
