@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/Q1pNptO0blA'
 
 {% include youtube.html %}
 
-Elizabeth Leahy is a talented interior designer who joined me recently to talk about the wide range of projects she has worked on. Here’s what she had to say.
+<p style="text-align: center;"><em>Elizabeth Leahy is a talented interior designer who joined me recently to talk about the wide range of projects she has worked on. Here’s what she had to say.</em></p>
 
 Today marks the beginning of my series where I bring neighborhood experts together to help make your home life easier. Today, I’m joined by Elizabeth Leahy, who has been helping me as an interior designer for years now.&nbsp;
 
