@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/qAi3DknkIXQ'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Welcome back to another of my neighborhood expert interviews\! In today’s episode, I sit down with Skip Keeley from Alert 360 to discuss home security.</em></p>
+<p style="text-align: center;"><em>Welcome back to another of my neighborhood expert interviews! In today’s episode, I sit down with Skip Keeley from Alert 360 to discuss home security.</em></p>
 
 Skip Keeley of Alert 360 was originally recommended to me by a client when I was asking for tips on the best companies to use for smart home technology and home security. I hired him to install a system in my own home, and I was extremely impressed and surprised about how little I know about not just home security, but also about smart home technology.
 
