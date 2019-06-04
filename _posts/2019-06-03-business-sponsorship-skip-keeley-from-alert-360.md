@@ -27,6 +27,6 @@ Realizing that, I’ve asked him to join me for an overview of the latest trends
 
 **For your convenience, I’ve cited timestamps below that will direct you to various points in the video above. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
-1:09—Skip’s background in the home security and smart tech industries<br>2:37—What major products are available in the market right now?<br>3:55—If a home you purchased already has a home security system, what are the most popular things to tack onto it?<br>6:14—An overview on geofencing<br>7:31—The ballpark costs of installing/reactivating a home security system<br>9:55—How to contact Skip and Alter 360 for your home security needs<br>10:33—Bonus topic: What to consider when you’re looking at applying for a loan
+1:09—Skip’s background in the home security and smart tech industries<br>2:37—What major products are available in the market right now?<br>3:55—If a home you purchased already has a home security system, what are the most popular things to tack onto it?<br>6:14—An overview of geofencing<br>7:31—The ballpark costs of installing/reactivating a home security system<br>9:55—How to contact Skip and Alter 360 for your home security needs<br>10:33—Bonus topic: What to consider when you’re looking at applying for a loan
 
 If you have any questions about today’s topic or real estate in general, don’t hesitate to reach out to me. I’d love to speak with you.
