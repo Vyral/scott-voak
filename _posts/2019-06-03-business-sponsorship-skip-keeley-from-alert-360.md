@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Business Sponsorship: Skip Keeley from Alert 360'
+title: 'Home Security and Automation: Skip Keeley from Alert 360'
 date: 2019-06-03 15:18:03
 tags:
   - Real Estate
