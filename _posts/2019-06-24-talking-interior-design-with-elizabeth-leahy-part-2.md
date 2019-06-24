@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/Q1pNptO0blA'
 
 {% include youtube.html %}
 
-Elizabeth Leahy joins once more to talk about the role that interior design plays in real estate.
+<p style="text-align: center;"><em>Elizabeth Leahy joins once more to talk about the role that interior design plays in real estate.</em></p>
 
 Today I’m joined once more by interior designer Elizabeth Leahy to talk about the role of interior design in the real estate business.&nbsp;
 
