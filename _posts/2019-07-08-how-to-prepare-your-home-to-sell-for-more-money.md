@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/6TpvHDKyc9k'
 
 {% include youtube.html %}
 
-How much work do you need to do in order to get your house ready to sell for the highest possible price? Find out today.
+<p style="text-align: center;"><em>How much work do you need to do in order to get your house ready to sell for the highest possible price? Find out today.</em></p>
 
 Sellers often ask me how they should prepare their homes to sell on the market. What should the home look like by the time it’s listed? How much work is involved in that process?
 
