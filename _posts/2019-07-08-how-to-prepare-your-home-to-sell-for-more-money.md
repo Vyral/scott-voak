@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Prepare Your Home to Sell For More Money
+title: How to Prepare Your Home to Sell for More Money
 date: 2019-07-08 19:10:38
 tags:
   - Home Seller Tips
@@ -35,7 +35,7 @@ On that property, the front yard was initially dead. We put in new grass, painte
 
 Additionally, we replaced the four-inch white tiles in the kitchen with brand-new granite countertops. We put in new mahogany cabinets to replace the old oak ones. You can see in the video above how the overall effect of looking through the kitchen window into the backyard created a much better impression than before. We even took the old guest bathroom upstairs and replaced the cultured marble with granite countertops. Overall, the home was radically transformed.
 
-After doing the work, we put the house back on the market and had 35 people come through for the open house. **We received multiple offers for it, and in the end, the house closed for $875,000—we picked up $125,000 for jus $32,000 worth of work.**
+After doing the work, we put the house back on the market and had 35 people come through for the open house. **We received multiple offers for it, and in the end, the house closed for $875,000—we picked up $125,000 for just $32,000 worth of work.**
 
 If you don’t have the money to pay for the renovations, we can cover it for you ourselves, and you can just pay us back at the close of escrow. Today’s example was one that showed a huge return, but the point was just to demonstrate the things you can do to make the house show perfectly and to help you get the highest possible price for it.
 
