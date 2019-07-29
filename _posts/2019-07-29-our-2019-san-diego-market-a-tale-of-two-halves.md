@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/gxwykcO3gaY'
 
 {% include youtube.html %}
 
-Our San Diego market started off slowly during the first half of 2019, but better days are ahead.
+<p style="text-align: center;"><em>Our San Diego market started off slowly during the first half of 2019, but better days are ahead.</em></p>
 
 How can we sum up the first half of 2019 for our San Diego market? What’s in store for the second half?
 
