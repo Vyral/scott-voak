@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Properly Analyze & Compare Real Estate Investments
-date: 2019-09-17 18:44:53
+date: 2019-09-17 18:44:00
 tags:
   - Real Estate
 excerpt: >-
