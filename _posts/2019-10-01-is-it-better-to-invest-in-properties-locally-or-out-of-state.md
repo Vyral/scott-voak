@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/69oCb8KnRY8'
 
 {% include youtube.html %}
 
-How does investing in San Diego real estate compare to investing in properties that are out of state? Let’s discuss.
+<p style="text-align: center;"><em>How does investing in San Diego real estate compare to investing in properties that are out of state? Let’s discuss.</em></p>
 
 Welcome back to our series on investment properties. Just like we did in our first installment, today we’ll be going over investment properties both here in San Diego and out of state and comparing them to each other in regards of potential returns.&nbsp;
 
