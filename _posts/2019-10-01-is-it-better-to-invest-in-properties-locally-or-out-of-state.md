@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is it Better to Invest in Properties Locally or Out of State?
+title: Local Vs. Out-of-State Investment Properties: Different Goals - Different Solutions
 date: 2019-10-01 21:28:37
 tags:
   - Investment
