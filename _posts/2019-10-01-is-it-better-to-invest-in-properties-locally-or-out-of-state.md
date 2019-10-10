@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Local Vs. Out-of-State Investment Properties: Different Goals - Different Solutions
+title: Local Vs. Out-of-State Investment Properties, Different Goals - Different Solutions
 date: 2019-10-01 21:28:37
 tags:
   - Investment
