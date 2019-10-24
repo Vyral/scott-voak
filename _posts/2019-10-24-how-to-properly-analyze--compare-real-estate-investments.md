@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/WkVgqAO10Gg'
 
 {% include youtube.html %}
 
-Real estate investing is a great way to build wealth, and here’s an example of how to analyze and compare real estate investments.
+<p style="text-align: center;"><em>Real estate investing is a great way to build wealth, and here’s an example of how to analyze and compare real estate investments.</em></p>
 
 If you’re thinking of investing in real estate, how do the numbers stack up in your favor? What’s the difference between investing in a San Diego property and one from out of state?
 
