@@ -23,10 +23,10 @@ youtube_code: 'https://youtu.be/WkVgqAO10Gg'
 
 If you’re thinking of investing in real estate, how do the numbers stack up in your favor? What’s the difference between investing in a San Diego property and one from out of state?
 
-Follow along in the video above as I answer each question for you. **I’ve provided timestamps so you can skip ahead to various sections at your convenience:&nbsp;**
+Follow along in the video above as I answer each question for you. **I’ve provided timestamps so you can skip ahead to various sections at your convenience:**
 
-1:40—The cap rates of how a typical San Diego investment performs<br>2:25—The cap rates for properties outside of San Diego (and California)<br>3:18—What happens to the numbers of a San Diego home when you factor in financing<br>4:11—What happens to a property outside of San Diego when you factor in financing<br>5:30—How appreciation affects the cap rates and cash-on-cash returns<br>6:30—Wrapping things up&nbsp;
+<ul><li>1:40—The cap rates of how a typical San Diego investment performs</li><li>2:25—The cap rates for properties outside of San Diego (and California)</li><li>3:18—What happens to the numbers of a San Diego home when you factor in financing</li><li>4:11—What happens to a property outside of San Diego when you factor in financing</li><li>5:30—How appreciation affects the cap rates and cash-on-cash returns</li><li>6:30—Wrapping things up</li></ul>
 
-Stay tuned for the second and final part of my real estate investing series, where I delve deeper into this topic and examine what happens when you convert your asset into cash flow as you near retirement.&nbsp;
+Stay tuned for the second and final part of my real estate investing series, where I delve deeper into this topic and examine what happens when you convert your asset into cash flow as you near retirement.
 
-In the meantime, if you have any questions at all, don’t hesitate to reach out to me. I’d love to help you.&nbsp;<br>&nbsp;
+In the meantime, if you have any questions at all, don’t hesitate to reach out to me. I’d love to help you.
