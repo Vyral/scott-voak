@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/-FIvqeOqSQ8'
 
 {% include youtube.html %}
 
-We’re hosting a party for our friends and clients to thank you all again this year. It’ll be November 23rd, be sure to make it\!.
+<p style="text-align: center;"><em>We’re hosting a party for our friends and clients to thank you all again this year. It’ll be November 23rd, be sure to make it\!.</em></p>
 
 **Every year around Thanksgiving, we host a party for our friends and clients to thank you for being such awesome supporters for our business.**
 
