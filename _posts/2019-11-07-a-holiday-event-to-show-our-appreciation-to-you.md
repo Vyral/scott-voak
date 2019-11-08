@@ -19,11 +19,11 @@ youtube_code: 'https://youtu.be/-FIvqeOqSQ8'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’re hosting a party for our friends and clients to thank you all again this year. It’ll be November 23rd, be sure to make it\!.</em></p>
+<p style="text-align: center;"><em>We’re hosting a party for our friends and clients to thank you all again this year. It’ll be November 23, be sure to make it!.</em></p>
 
 **Every year around Thanksgiving, we host a party for our friends and clients to thank you for being such awesome supporters for our business.**
 
-On November 23 from 5:30 p.m. to 11:00 p.m. at the Country Club of Rancho Bernardo, we’ll be hosting a Casino Night, and you’re invited\!&nbsp;
+On November 23 from 5:30 p.m. to 11 p.m. at the Country Club of Rancho Bernardo, we’ll be hosting a Casino Night, and you’re invited\!&nbsp;
 
 This is the biggest event we host each year, and I’m very excited about it. Clients, family, and friends can socialize, network, provide referrals, and generally have a good time. We’ll provide a full Thanksgiving dinner, dancing, raffle prizes, and we’re very liberal with the drink tickets for the bar.
 
