@@ -25,8 +25,10 @@ youtube_code: 'https://youtu.be/-FIvqeOqSQ8'
 
 On November 23 from 5:30 p.m. to 11 p.m. at the Country Club of Rancho Bernardo, we’ll be hosting a Casino Night, and you’re invited\!&nbsp;
 
-This is the biggest event we host each year, and I’m very excited about it. Clients, family, and friends can socialize, network, provide referrals, and generally have a good time. We’ll provide a full Thanksgiving dinner, dancing, raffle prizes, and we’re very liberal with the drink tickets for the bar.
+This is the biggest event we host each year, and I’m very excited about it. Clients, family, and friends can socialize, network, provide referrals, and generally have a good time. We’ll provide a full sit down dinner, dancing, raffle prizes, and drinks.
 
-Since I don’t get to see many of you more than once a year, I’d be ecstatic if you could make it. You can RSVP for the event here.
+Since I don’t get to see many of you more than once a year, I’d be ecstatic if you could make it. You can RSVP for the event by sending an <a href="mailto:scott@voakhomes.com">email</a> with your Full name and any guests coming with you, dinner choice between Chicken Provencal, Pan-Seared Salmon, or Portabello Mushroom Stack(vegetarian).
+
+Also, if you could please bring an unwrapped gift to be given to The Boys and Girls Club.
 
 If you have any questions about Casino Night, don’t hesitate to reach out to me. I hope to see you then\!
