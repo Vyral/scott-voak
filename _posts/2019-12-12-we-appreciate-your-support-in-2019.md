@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/b9JBshbCt8o'
 
 <p style="text-align: center;"><em>This was a great year for us at Voak Homes and it was thanks to all of you. Here’s our holiday message for all of you who made it possible.</em></p>
 
-2019 was a great year for Voak Homes. We just wrapped up our holiday party and we want to thank everyone who came and brought gifts for the Boys and Girls Club.
+2019 was a great year for Voak Homes. We just wrapped up our holiday party, and we want to thank everyone who came and brought gifts for the Boys and Girls Club.
 
 We also wanted to thank you for all of your support this year and wish you the best this holiday season. We are looking forward to a fantastic 2020. If you are a client and haven't heard from me yet about your year-end review, be sure to give me a call. I’ll be reaching out over the next few weeks to schedule some time with you for a quick meeting.
 
