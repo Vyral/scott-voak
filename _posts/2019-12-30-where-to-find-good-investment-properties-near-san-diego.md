@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/r5qRt6z4LEU'
 
 {% include youtube.html %}
 
-San Diego may not be the best place to invest in terms of cash flow, but here are three promising areas to invest in nearby.
+<p style="text-align: center;"><em>San Diego may not be the best place to invest in terms of cash flow, but here are three promising areas to invest in nearby.</em></p>
 
 When it comes to real estate investing near the San Diego area, you want to buy a property that’s in a good neighborhood, but make sure that you’re considering the long-term when it comes to assessing a neighborhood’s quality. It’s a good idea to buy in a currently average neighborhood that’s on an upward trend.
 
