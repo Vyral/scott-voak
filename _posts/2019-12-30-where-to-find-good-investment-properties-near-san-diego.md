@@ -25,7 +25,7 @@ youtube_code: 'https://youtu.be/r5qRt6z4LEU'
 
 When it comes to real estate investing near the San Diego area, you want to buy a property that’s in a good neighborhood, but make sure that you’re considering the long-term when it comes to assessing a neighborhood’s quality. It’s a good idea to buy in a currently average neighborhood that’s on an upward trend.
 
-That’s one of the reasons why, around seven to 10 years ago, San Marcos was a popular investment site. The university was just starting up, there was a lot of redevelopment in the downtown area, and the Mello-Roos fees from Santa Leo Hills and other developments were going into the schools. After that, they got a second high school and the middle schools got better, as well. Since, we’ve seen a general increase in the value of San Marcos.
+That’s one of the reasons why, around seven to 10 years ago, San Marcos was a popular investment site. The university was just starting up, there was a lot of redevelopment in the downtown area, and the Mello-Roos fees from Santa Leo Hills and other developments were going into the schools. After that, they got a second high school and the middle schools got better, as well. Since then, we’ve seen a general increase in the value of San Marcos.
 
 **When looking at San Diego for investment opportunities, I would focus on three areas:**
 
@@ -37,6 +37,6 @@ That’s one of the reasons why, around seven to 10 years ago, San Marcos was a 
 
 **3\. Logan Heights.** The west side, in particular, may hold some opportunities. There have been a whole bunch of redevelopments in Barrio Logan, and Logan Heights is immediately east of downtown San Diego. West Logan Heights has already been labeled as an enterprise zone, but if you go too far east of the 805, you’ll have to hold the property for 10 to 15 years to get a good return. If you want to find inexpensive properties, look for a duplex or triplex in West Logan Heights.
 
-I do believe that there are other areas in the country that are better for cash flow, but for those who want to stay in the San Diego area, I hope these three suggestions help. By means, do your own research if you think I’m crazy\!
+I do believe that there are other areas in the country that are better for cash flow, but for those who want to stay in the San Diego area, I hope these three suggestions help. By all means, do your own research if you think I’m crazy\!
 
 If you have any questions about buying, selling, or investing in real estate, don’t hesitate to reach out to me. I’d love to help you.
