@@ -8,7 +8,7 @@ excerpt: >-
   San Diego may not be the best place to invest in terms of cash flow, but here
   are three promising areas to invest in nearby.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Voak/2019/Voak+Homes-+3+Places+to+Invest+in+San+Diego+County.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Voak/2020/Voak+Homes-+investing+in+san+diego.mp4
 pullquote: >-
   It’s a good idea to buy in a currently average neighborhood that’s on an
   upward trend.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/r5qRt6z4LEU'
+youtube_code: 'https://youtu.be/eIXcsL4gXcg'
 ---
 
 {% include youtube.html %}
