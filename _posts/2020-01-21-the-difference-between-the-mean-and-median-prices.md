@@ -22,7 +22,7 @@ youtube_code: 9gPPhBHpST4
 
 {% include youtube.html %}
 
-People like to use the terms “median price” and “average price” interchangeably, but they actually measure two completely different things. Here’s how you can tell the difference.
+<p style="text-align: center;"><em>People like to use the terms “median price” and “average price” interchangeably, but they actually measure two completely different things. Here’s how you can tell the difference.</em></p>
 
 A few weeks ago, I brought back my “Monday Morning Coffee” weekly email with an analysis of average prices and indexes. I received a few different questions about them, so I figured I’d take a moment to answer some today.
 
