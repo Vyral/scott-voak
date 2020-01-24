@@ -9,7 +9,7 @@ excerpt: >-
   interchangeably, but they actually measure two completely different things.
   Here’s how you can tell the difference.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Voak/2020/Voak+Homes-+Mean+Price+vs+Median+Price.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Voak/2020/Voak+Homes-+median+vs+mean.mp4
 pullquote: >-
   If the median price is growing faster than the mean, we’re in a healthier
   market.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9gPPhBHpST4
+youtube_code: XjnowrNTPs8
 ---
 
 {% include youtube.html %}
