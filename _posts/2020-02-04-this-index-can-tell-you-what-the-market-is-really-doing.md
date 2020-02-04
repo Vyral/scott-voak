@@ -19,7 +19,7 @@ youtube_code: 73GhIUDwRGw
 
 {% include youtube.html %}
 
-Continuing our discussion from last time, today we’ll talk about indexing.
+<p style="text-align: center;"><em>Continuing our discussion from last time, today we’ll talk about indexing.</em></p>
 
 The Case-Shiller Index was initially developed by professors and it has since been transferred over to the St. Louis Federal Reserve to manage. Essentially, it’s an index of prices calculated by looking at the same house’s sales over different periods.
 
