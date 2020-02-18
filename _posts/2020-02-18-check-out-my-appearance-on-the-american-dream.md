@@ -19,7 +19,7 @@ youtube_code: 7CMjIv0KCt4
 
 {% include youtube.html %}
 
-Check out the interview I did for popular TV show, “The American Dream,” with Cassie Lueffen.
+<p style="text-align: center;"><em>Check out the interview I did for popular TV show, “The American Dream,” with Cassie Lueffen.</em></p>
 
 Today I’m sharing my recent appearance on “The American Dream,” hosted by Cassie Lueffen. As you’ll hear in the video above, I certainly took a winding road into real estate. I grew up in the Bay Area and earned an engineering degree from Santa Clara, and then went straight into high-tech sales and marketing. How did I end up in real estate?&nbsp;
 
