@@ -5,7 +5,7 @@ date: 2020-02-18 22:14:44
 tags:
   - Real Estate
 excerpt: >-
-  Check out the interview I did for popular TV show, “The American Dream,” with
+  Check out the interview I did for the popular TV show, “The American Dream,” with
   Cassie Lueffen.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Voak/2020/The+American+Dream+interviews+Scott+Voak+upon+his+joining+the+show-+What+Makes+Him+Different.mp4
@@ -19,7 +19,7 @@ youtube_code: 7CMjIv0KCt4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Check out the interview I did for popular TV show, “The American Dream,” with Cassie Lueffen.</em></p>
+<p style="text-align: center;"><em>Check out the interview I did for the popular TV show, “The American Dream,” with Cassie Lueffen.</em></p>
 
 Today I’m sharing my recent appearance on “The American Dream,” hosted by Cassie Lueffen. As you’ll hear in the video above, I certainly took a winding road into real estate. I grew up in the Bay Area and earned an engineering degree from Santa Clara, and then went straight into high-tech sales and marketing. How did I end up in real estate?&nbsp;
 
