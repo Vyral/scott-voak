@@ -25,7 +25,7 @@ Today I’m sharing my recent appearance on “The American Dream,” hosted by 
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Enjoy the full message or use these timestamps to skip around to the parts that interest you most:&nbsp;**
 
-**0:43** - My background in high-tech marketing and sales, and learning from [Sol Price](https://www.nytimes.com/2009/12/16/business/16price.html)
+**0:43** - My background in high-tech marketing and sales, and learning from <a href="https://www.nytimes.com/2009/12/16/business/16price.html" target="_blank"><u>Sol Price</u></a>
 
 **1:51** - Why I transitioned into the real estate industry (and how our success changed the MLS)&nbsp;
 
@@ -35,4 +35,4 @@ Today I’m sharing my recent appearance on “The American Dream,” hosted by 
 
 **4:08** - The only thing in the real estate industry I’m not good at, and future goal-casting&nbsp;
 
-I hope you enjoyed this interview with Cassie and The American Dream team as much as I did. As always, reach out if you have any questions about real estate or have an interest in buying or selling a home.
+I hope you enjoyed this interview with Cassie and "The American Dream" team as much as I did. As always, reach out if you have any questions about real estate or have an interest in buying or selling a home.
