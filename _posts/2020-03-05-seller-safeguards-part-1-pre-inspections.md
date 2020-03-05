@@ -21,7 +21,7 @@ youtube_code: kjSnNrLPDKk
 
 {% include youtube.html %}
 
-I’m sharing part one of a series on how sellers can protect themselves and make sure escrow goes smoothly. Here’s why pre-inspections are important.
+<p style="text-align: center;"><em>I’m sharing part one of a series on how sellers can protect themselves and make sure escrow goes smoothly. Here’s why pre-inspections are important.</em></p>
 
 We’re seeing a really strong market in certain segments, so buyers are taking some chances and going for tactics that you, as a seller, need to be wary of.&nbsp;
 
