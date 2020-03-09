@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seller Safeguards, Part 1: Pre-Inspections'
+title: 'How Sellers Can Maintain Control: Pre-Inspections'
 date: 2020-03-05 22:02:28
 tags:
   - Home Seller Tips
