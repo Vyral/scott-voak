@@ -19,7 +19,7 @@ youtube_code: zD7S80mmS74
 
 {% include youtube.html %}
 
-As a seller in a strong market, you still need to protect yourself from issues that can crop up during escrow.
+<p style="text-align: center;"><em>As a seller in a strong market, you still need to protect yourself from issues that can crop up during escrow.</em></p>
 
 Getting a real estate license is very simple, and we’re seeing a lot of part-time agents in the field. If you’re a seller and you have eight or nine offers on your home, understand that the buyer’s agent is actually more important than the buyer in the success of your transaction.
 
