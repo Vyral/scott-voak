@@ -20,7 +20,7 @@ youtube_code: oWi5fv72JKA
 
 {% include youtube.html %}
 
-If you need to buy or sell a home during this time, we’re taking every precaution to ensure your health and safety. Here are a few of the things we’re doing.
+<p style="text-align: center;"><em>If you need to buy or sell a home during this time, we’re taking every precaution to ensure your health and safety. Here are a few of the things we’re doing.</em></p>
 
 The coronavirus has impacted nearly every facet of our daily lives, and real estate is no exception. Although we’re still continuing to conduct business and help buyers and sellers complete transactions, we’re doing so much more cautiously. We’re offering virtual consultations, showings, and 3D home tours.
 
