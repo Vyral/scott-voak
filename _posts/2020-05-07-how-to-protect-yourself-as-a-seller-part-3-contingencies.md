@@ -19,7 +19,7 @@ youtube_code: pBhmOETm0W0
 
 {% include youtube.html %}
 
-Here are a few things you can do to protect yourself from issues in escrow.
+<p style="text-align: center;"><em>Here are a few things you can do to protect yourself from issues in escrow.</em></p>
 
 We’ve found that in certain markets that are rapidly appreciating, sellers are having issues with their appraisals. You don’t want to get into a transaction after you’ve already found a replacement home only to have your current home fail to appraise properly, which could cause you to still be negotiating your contract 14 days into the escrow period.
 
