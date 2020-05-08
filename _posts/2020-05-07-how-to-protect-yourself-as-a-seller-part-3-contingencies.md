@@ -25,7 +25,7 @@ We’ve found that in certain markets that are rapidly appreciating, sellers are
 
 **In your counteroffer, have your agent find out how much the buyer is willing to pay above the appraisal.** You can’t hold the buyer to that number legally, but doing this will help set the buyer’s expectations, and help you learn how willing they are to bring in extra cash. Looking at their proof of funds is also important; does the buyer have enough money not only for the down payment and closing costs, but could they also pay $20,000 to $30,000 more than that? Are they even willing to do so?
 
-Next, understand that in the state of California, the standard contract allows 17 days for a contingency removal period and 21 days for loan contingencies. We’ve noticed that buyers aren’t wanting to remove their contingencies. If all contingencies are moved and the buyer backs out you get to keep their deposit;if contingencies haven’t been removed, they get their deposit back. So if they don’t remove their contingencies, you, the seller, take all the risk of the buyer losing their job, getting sick, or any number of misfortunes occurring.
+Next, understand that in the state of California, the standard contract allows 17 days for a contingency removal period and 21 days for loan contingencies. We’ve noticed that buyers aren’t wanting to remove their contingencies. If all contingencies are moved and the buyer backs out you get to keep their deposit; if contingencies haven’t been removed, they get their deposit back. So if they don’t remove their contingencies, you, the seller, take all the risk of the buyer losing their job, getting sick, or any number of misfortunes occurring.
 
 {% include pullquote.html %}
 
